@@ -4,7 +4,7 @@
 
 Team x har anskaffet en app som er tilgjengeliggjort på https://hub.docker.com/r/havardelnan/wonderapp . Denne ønsker de å deploye vha argocd.
 
-Det er vedlagt utsnitt av dokumentasjonen for publisering på vår plattform.
+Det er vedlagt utsnitt av dokumentasjonen for publisering på vår plattform: [publisering.md](./publisering.md)
 
 ### Oppgave
 1. Lag et git-repo med deploymentkode for applikasjonen som kan benyttes av Argo-cd.
